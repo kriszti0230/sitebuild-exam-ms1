@@ -44,7 +44,6 @@ section {
     border-width: 6px;
     font-size: 21px;
     font-family: 'Poppins', sans-serif;
-    text-transform: uppercase;
     letter-spacing: 0.2em;
     color: #242d38;
     font-weight: bold;
@@ -62,11 +61,11 @@ section {
     right: 0;
     font-size: 21px;
     font-family: 'Poppins', sans-serif;
-    text-transform: uppercase;
     letter-spacing: 0.2em;
     color: #ffffff;
     background-color: #4343f9;
     box-shadow: 0 0 20px #4343f9;
+    border: none;
 
 }
 
